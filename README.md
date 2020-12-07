@@ -4,7 +4,7 @@ Links
 2. [Project Website](https://lindanhh.github.io/IT115-appstack-website/)
 3. [MEAN Stack Tutorial](https://docs.google.com/document/d/1fGoW8douGL39w5bEC2d6rGtUjBk_nkYWf65Spy2CCMk/edit)
 4. [Web App Tutorial](https://docs.google.com/document/d/1vVchnxqyBmMSiUVaOCxtnPPvabCoBC9r0Qite-kINOQ/edit)
-5. [Web App Team Repo](https://github.com/lhxo/it115webapp) \
+5. [Web App Team Repo](https://github.com/lhxo/it115webapp) 
 
 ## The Team
 \
