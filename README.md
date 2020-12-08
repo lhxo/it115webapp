@@ -9,21 +9,21 @@ Links
 ## The Team
 \
 Project Manager
-Damilya Kassymbekova - damilya.kassymbekova@seattlecolleges.com\
+Damilya Kassymbekova - damilya.kassymbekova@seattlecolleges.com
 
 ## App Team
 \
 Blake Agrade - Lead - blake.agrade@gmail.com\
 Hien Nguyen - ktsthehien@gmail.com\
 Rich Jensen - rich@richjensen.com\
-Christopher Yip - christopher.a.yip@gmail.com\
+Christopher Yip - christopher.a.yip@gmail.com
 
 ## Stack Team
 \
 Tim Davidson - Lead - tdavidson61@gmail.com\
 Bisrat Eshetu - bisremichael@gmail.com\
 Diego Falcon Costilla - diegofalconcostilla94@gmail.com\
-Stephen Grose - https://github.com/stephengrose\
+Stephen Grose - https://github.com/stephengrose/
 
 ## Web Page Team
 \
